@@ -1,5 +1,5 @@
 # Project-Anna-Bella
 
-Basic CSS3 Study Project
+A CSS3 study project
 
 https://ccesarfp.github.io/Project-Anna-Bella/
